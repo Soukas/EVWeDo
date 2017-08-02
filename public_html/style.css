@@ -1,0 +1,18 @@
+* {
+  font-family: 'Georgia', 'Times', serif;
+  background-color:GoldenRod;
+}
+p, h1 {
+  color:Crimson;
+  background-color:rgb(0,0,0);
+  background-color:RGBa(0,0,0,.75);
+}
+
+a {
+  color:DarkRed;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+}
