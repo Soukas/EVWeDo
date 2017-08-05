@@ -2,96 +2,91 @@
   box-sizing:border-box;
   margin: 0em;
   padding: 0em;
+  background-color:rgb(172, 196, 220);
+  border-color:rgb(172, 196, 220);
+
 }
 
 #Header {
-	text-align:center;
-	height:5em;
-	width:60em;
+  text-align:center;
+  height:10%;
+  width:100%;
 }
 
 #MainLinks {
-	text-align:center;
-	border-color:black;
-	border:1em;
+  text-align:center;
+  border-color:black;
+  border:1em;
 }
 
 .UpperPanel {
-	height:20em;
-	width:60em;
-	background-color:rgb(172, 196, 220);
-	border-color:rgb(172, 196, 220);
-}
+  height:30%;
+  width:100%;
+	}
 
 .R1C1 {
-	display:inline;
-	height:10em;
-	width:10em;
+  height:15%;
+  width:33%;
 }
 
 .R1C2 {
-	display:inline;
-	height:10em;
-	width:10em;
+  height:15%;
+  width:33%;
 }
 
 .R1C3 {
-	display:inline-block;
-	height:10em;
-	width:10em;	
+  height:15%;
+  width:34%;	
 }
 
 .R2C1 {
-	display:inline;
-	height:10em;
-	width:10em;
+  height:15%;
+  width:34%;
 }
 
 .R2C2 {
-	display:inline;
-	height:10em;
-	width:10em;
+  height:15%;
+  width:33%;
 }
 
-.R2C3 {
-	display:inline-block;	
-	height:10em;
-	width:10em;
+.R2C3 {	
+  height:15%;
+  width:33%;
 }
 .R1C1:hover {
-	border-bottom-width:1em;
-	border-right-width:1em;
+  border-bottom-width:1em;
+  border-right-width:1em;
 }
 
 .R1C2:hover {
-	border-bottom-width:1em;
+  border-bottom-width:1em;
 }
 
 .R1C3:hover {
-	border-bottom-width:1em;
-	border-left-width:1em;
+  border-bottom-width:1em;
+  border-left-width:1em;
 }
 
 .R2C1:hover {
-	border-top-width:1em;
-	border-right-width:1em;
+  border-top-width:1em;
+  border-right-width:1em;
 }
 
 .R2C2:hover {	
-	border-top-width:1em;
+  border-top-width:1em;
 }
 
 .R2C3:hover {
-	border-top-width:1em;
-	border-left-width:1em;
+  border-top-width:1em;
+  border-left-width:1em;
 }
 
 .MissionUpdates {
-	text-align:center;
-	display:block;
-	height:40em;
-	width:60em;
-	background-color:rgb(112, 183, 254);
+  text-align:center;
+  display:block;
+  height:40em;
+  width:60em;
+  background-color:rgb(112, 183, 254);
 }
 /* Color pallet */
 /* blue bottom: rgb(112, 183, 254) */
