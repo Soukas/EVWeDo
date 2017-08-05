@@ -10,6 +10,7 @@
 
 #MainLinks {
 	text-align:center;
+	border-color:black;
 	border:1em;
 }
 
@@ -19,6 +20,8 @@
 	background-color:rgb(172, 196, 220);
 }
 .UpperPanel {
+	height:20em;
+	width:60em;
 	background-color:rgb(172, 196, 220);
 	border-color:rgb(172, 196, 220);
 }
