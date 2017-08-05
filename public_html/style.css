@@ -17,52 +17,89 @@
 	width: 60em;
 	background-color:rgb(172, 196, 220);
 }
+.UpperPanel {
+	background-color:rgb(172, 196, 220);
+	border-color:rgb(172, 196, 220);
+}
+.UPPanel11 {
+	display:inline-block;
+	height:10em;
+	width:10em;
+}
 
+.UPPanel12 {
+	display:inline-block;
+	height:10em;
+	width:10em;
+}
+
+.UPPanel13 {
+	display:block;
+	height:10em;
+	width:10em;	
+}
+
+.UPPanel21 {
+	display:inline-block;
+	height:10em;
+	width:10em;
+}
+
+.UPPanel22 {
+	display:inline-block;
+	height:10em;
+	width:10em;
+}
+
+.UPPanel23 {
+	display:inline-block;	
+	height:10em;
+	width:10em;
+}
 .UPPanel11:hover {
 	display:inline-block;
+	border-bottom-width:1em;
+	border-right-width:1em;
+	height:10em;
+	width:10em;
 }
 
 .UPPanel12:hover {
 	display:inline-block;
+	border-bottom-width:1em;
+	height:10em;
+	width:10em;
 }
 
 .UPPanel13:hover {
-	display:block;	
+	display:block;
+	border-bottom-width:1em;
+	border-left-width:1em;
+	height:10em;
+	width:10em;
 }
 
 .UPPanel21:hover {
 	display:inline-block;
+	border-top-width:1em;
+	border-right-width:1em;
+	height:10em;
+	width:10em;
 }
 
 .UPPanel22:hover {
 	display:inline-block;	
+	border-top-width:1em;
+	height:10em;
+	width:10em;
 }
 
 .UPPanel23:hover {
-	display:inline-block;	
-}
-.UPPanel11:hover {
 	display:inline-block;
-}
-
-.UPPanel12:hover {
-	display:inline-block;
-}
-
-.UPPanel13:hover {
-	display:block;	
-}
-
-.UPPanel21:hover {
-	display:inline-block;
-}
-
-.UPPanel22:hover {
-	display:inline-block;	
-}
-
-.UPPanel23:hover {
-	display:inline-block;	
+	border-top-width:1em;
+	border-left-width:1em;	
+	height:10em;
+	width:10em;
 }
 /* Color pallet */
 /* blue bottom: rgb(112, 183, 254) */
