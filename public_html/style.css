@@ -13,11 +13,57 @@
 }
 
 .LowerPanel {
-	height: 60em;
-	width: 180em;
+	height: 20em;
+	width: 60em;
 	background-color:rgb(172, 196, 220);
 }
 
+.UPPanel11:hover {
+	display:inline-block;
+}
+
+.UPPanel12:hover {
+	display:inline-block;
+}
+
+.UPPanel13:hover {
+	display:block;	
+}
+
+.UPPanel21:hover {
+	display:inline-block;
+}
+
+.UPPanel22:hover {
+	display:inline-block;	
+}
+
+.UPPanel23:hover {
+	display:inline-block;	
+}
+.UPPanel11:hover {
+	display:inline-block;
+}
+
+.UPPanel12:hover {
+	display:inline-block;
+}
+
+.UPPanel13:hover {
+	display:block;	
+}
+
+.UPPanel21:hover {
+	display:inline-block;
+}
+
+.UPPanel22:hover {
+	display:inline-block;	
+}
+
+.UPPanel23:hover {
+	display:inline-block;	
+}
 /* Color pallet */
 /* blue bottom: rgb(112, 183, 254) */
 /* light blue grey under tile: rgb(172, 196, 220) */
