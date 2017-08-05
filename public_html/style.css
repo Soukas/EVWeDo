@@ -10,7 +10,7 @@
 
 #MainLinks {
 	text-align:center;
-	border:1px;
+	border:1em;
 }
 
 .LowerPanel {
@@ -103,7 +103,7 @@
 	width:10em;
 }
 
-.MissonUpdates {
+.MissionUpdates {
 	display:block;
 	height:40em;
 	width:60em;
