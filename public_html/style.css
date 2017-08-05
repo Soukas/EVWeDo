@@ -1,18 +1,25 @@
 * {
-  font-family: 'Georgia', 'Times', serif;
-  background-color:GoldenRod;
-}
-p, h1 {
-  color:Crimson;
-  background-color:rgb(0,0,0);
-  background-color:RGBa(0,0,0,.75);
+  box-sizing:border-box;
+  margin: 0em;
+  padding: 0em;
 }
 
-a {
-  color:DarkRed;
-  text-decoration: none;
+#Header {
+	
 }
 
-img {
-  border-radius: 100%;
+#MainLinks {
+	
 }
+
+.LowerPanel {
+	height: 60em;
+	width: 180em;
+	background-color:rgb(172, 196, 220);
+}
+
+/* Color pallet */
+/* blue bottom: rgb(112, 183, 254) */
+/* light blue grey under tile: rgb(172, 196, 220) */
+/* Darker blue grey over tile: rgb(172, 196, 220) */
+/* Character colors: rgb(172, 196, 220) */
