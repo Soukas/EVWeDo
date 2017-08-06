@@ -4,13 +4,15 @@
   padding: 0em;
   background-color:rgb(172, 196, 220);
   border-color:rgb(172, 196, 220);
-
 }
 
 #Header {
   text-align:center;
   height:10%;
   width:100%;
+  background-image:url("\lightning-bolt.jpg");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
 }
 
 #MainLinks {
