@@ -26,33 +26,21 @@
 	}
 
 .R1C1 {
-  height:15%;
-  width:33%;
 }
 
 .R1C2 {
-  height:15%;
-  width:33%;
 }
 
 .R1C3 {
-  height:15%;
-  width:34%;	
 }
 
 .R2C1 {
-  height:15%;
-  width:34%;
 }
 
 .R2C2 {
-  height:15%;
-  width:33%;
 }
 
 .R2C3 {	
-  height:15%;
-  width:33%;
 }
 .R1C1:hover {
   border-bottom-width:1em;
