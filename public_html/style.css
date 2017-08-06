@@ -17,6 +17,7 @@
 }
 
 #MainLinks {
+  text-decoration:none;
   margin:auto;
   background-color:rgb(172, 196, 220);
   width:100%
