@@ -23,13 +23,11 @@
 }
 
 .UpperPanel {
-  height:30%;
+  height:50%;
   width:100%;
-  display:inline;
 	}
 
 .R1C1 {
-	display:block;
 }
 
 .R1C2 {
@@ -39,7 +37,6 @@
 }
 
 .R2C1 {
-	display:block;
 }
 
 .R2C2 {
