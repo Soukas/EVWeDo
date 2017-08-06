@@ -26,9 +26,7 @@
 .LINKS {
   float:center;
   text-align:center;
-  border-color:black;
-  border:1em;
-  
+  border-color:rgb(85, 194, 224);
 }
 
 .ROW1 {
@@ -95,6 +93,6 @@ img {
 }
 /* Color pallet */
 /* blue bottom: rgb(112, 183, 254) */
-/* light blue grey under tile: rgb(172, 196, 220) */
+/* light blue grey under tile: rgb(85, 194, 224) */
 /* Darker blue grey over tile: rgb(172, 196, 220) */
 /* Character colors: rgb(172, 196, 220) */
