@@ -89,6 +89,9 @@
   width:60em;
   background-color:rgb(112, 183, 254);
 }
+img {
+  border-radius: 100%;
+}
 /* Color pallet */
 /* blue bottom: rgb(112, 183, 254) */
 /* light blue grey under tile: rgb(172, 196, 220) */
